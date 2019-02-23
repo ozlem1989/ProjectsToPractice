@@ -1,0 +1,10 @@
+/Users/ozlemyaylaalti/Projects/ProjectsToPractice/StringsAreRotations/obj/Debug/netcoreapp2.1/StringsAreRotations.csproj.CoreCompileInputs.cache
+/Users/ozlemyaylaalti/Projects/ProjectsToPractice/StringsAreRotations/obj/Debug/netcoreapp2.1/StringsAreRotations.AssemblyInfoInputs.cache
+/Users/ozlemyaylaalti/Projects/ProjectsToPractice/StringsAreRotations/obj/Debug/netcoreapp2.1/StringsAreRotations.AssemblyInfo.cs
+/Users/ozlemyaylaalti/Projects/ProjectsToPractice/StringsAreRotations/bin/Debug/netcoreapp2.1/StringsAreRotations.deps.json
+/Users/ozlemyaylaalti/Projects/ProjectsToPractice/StringsAreRotations/bin/Debug/netcoreapp2.1/StringsAreRotations.runtimeconfig.json
+/Users/ozlemyaylaalti/Projects/ProjectsToPractice/StringsAreRotations/bin/Debug/netcoreapp2.1/StringsAreRotations.runtimeconfig.dev.json
+/Users/ozlemyaylaalti/Projects/ProjectsToPractice/StringsAreRotations/bin/Debug/netcoreapp2.1/StringsAreRotations.dll
+/Users/ozlemyaylaalti/Projects/ProjectsToPractice/StringsAreRotations/bin/Debug/netcoreapp2.1/StringsAreRotations.pdb
+/Users/ozlemyaylaalti/Projects/ProjectsToPractice/StringsAreRotations/obj/Debug/netcoreapp2.1/StringsAreRotations.dll
+/Users/ozlemyaylaalti/Projects/ProjectsToPractice/StringsAreRotations/obj/Debug/netcoreapp2.1/StringsAreRotations.pdb
